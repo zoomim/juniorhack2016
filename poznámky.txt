@@ -1,0 +1,28 @@
+Chytrá mìsta -> Chytré koše (Smart Bin)
+
+Chytrý koš, zaøízení jako normální koš s pøídavnými funkcemi jako je :
+Detekce plnosti, odesílání dat na server
+Detekce povalení, odesílání dat na server
+Detekce požáru, odesílání dat na server
+Aktuální poloha koše, odesílání dat na server
+Optická signalizace zaplnìní koše (Obèan se nemusí obtìžovat dojít až k nìmu, vidí, jak svítí dioda)
+
+Problémy s napájením: Solární èlánek (a baterie)
+
+Pøipojení na server pøes Wi-Fi -> Zápis dat do SQL
+
+Centrální aplikace:
+
+Aplikace pøes kterou se dají koše spravovat
+Aktuální pozice košù (GPS ??), detekce pøi odcizení, v pøípadì opuštìní místa upozorní obsluhu
+Aktuální stav košù (pøesnost nyní 30 sec)
+Upozornìní na vznik požáru
+Upozornìní na povalení
+To nejvìtší gró -> Výpis které koše vyprázdnit (aktuální)
+
+
+Díky této detekci se zmenší okružní jízda popeláøù
+Koše které jsou prázdné / skoro prázdné pøece není tøeba vynášet
+Redukce CO2 do ovzduší (Popeláøský vùz nejezdí na zbyteèná místa)
+Díky menším cestám se ušetøí velké prachy + zlepší provoz ve mìstì (Popeláøské auto je velké a ucpává silnici)
+
