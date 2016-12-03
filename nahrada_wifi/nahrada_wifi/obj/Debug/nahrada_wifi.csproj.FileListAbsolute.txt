@@ -1,0 +1,6 @@
+c:\users\jan\documents\visual studio 2015\Projects\nahrada_wifi\nahrada_wifi\bin\Debug\nahrada_wifi.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\nahrada_wifi\nahrada_wifi\bin\Debug\nahrada_wifi.exe
+c:\users\jan\documents\visual studio 2015\Projects\nahrada_wifi\nahrada_wifi\bin\Debug\nahrada_wifi.pdb
+c:\users\jan\documents\visual studio 2015\Projects\nahrada_wifi\nahrada_wifi\obj\Debug\nahrada_wifi.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2015\Projects\nahrada_wifi\nahrada_wifi\obj\Debug\nahrada_wifi.exe
+c:\users\jan\documents\visual studio 2015\Projects\nahrada_wifi\nahrada_wifi\obj\Debug\nahrada_wifi.pdb
