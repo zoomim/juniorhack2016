@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\bin\Debug\teslaton.exe.config
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\bin\Debug\teslaton.exe
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\bin\Debug\teslaton.pdb
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.exe
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.pdb
+c:\users\student\documents\visual studio 2015\Projects\teslaton\teslaton\obj\Debug\teslaton.Form2.resources
